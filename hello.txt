@@ -1,3 +1,4 @@
 Hello, Git!
 Adding another line to the file.
 This is a feature.
+Partner change
